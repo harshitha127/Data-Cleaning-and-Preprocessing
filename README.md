@@ -4,7 +4,7 @@
 The objective of this project is to clean and preprocess the Titanic dataset by handling missing values, removing inconsistencies, and preparing the data for analysis.
 
 ## 📊 Dataset
-- Dataset: Titanic Dataset
+- Dataset: Titanic Dataset 
 - Source: Kaggle
 
 ## ⚙️ Approach
